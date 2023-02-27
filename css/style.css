@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(104, 197, 201);
+    font-family: 'Tilt Wrap', cursive;
+    text-align: center;
+    padding: 0 20%;
+}
+
+
+/* Title Section */
+.title {
+    font-size: 50px;
+    color: rgb(74, 74, 185);
+    padding-top: 50px;
+}
+
+/* Game Section */
+.row {
+    margin-top: 50px;
+}
+
+.button {
+    margin-top: 50px;
+}
+
+/* Footer Section */
+.footer {
+    margin-top: 50px;
+}
